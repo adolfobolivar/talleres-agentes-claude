@@ -1,0 +1,9 @@
+.DS_Store
+.env
+.venv/
+.vscode/
+.ipynb_checkpoints/
+__pycache__/
+
+# Archivos que generan los notebooks al ejecutarse
+data/
