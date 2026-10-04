@@ -4,9 +4,9 @@ Talleres prácticos, en español, para aprender a construir agentes de inteligen
 
 ## Talleres
 
-| # | Taller | Qué vas a construir | Abrir |
-|---|---|---|---|
-| 1 | [Tu primer agente: el analista de la Liga Intercolegial](taller1/taller1_agente_deportivo.ipynb) | Un agente que lee los resultados de una liga de fútbol, calcula la tabla y los goleadores con sus propios programas, y te consulta el calendario con una herramienta que tú programas. | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/adolfobolivar/talleres-agentes-claude/blob/main/taller1/taller1_agente_deportivo.ipynb) |
+| # | Taller | Qué vas a construir | Abrir | Video |
+|---|---|---|---|---|
+| 1 | [Tu primer agente: el analista de la Liga Intercolegial](taller1/taller1_agente_deportivo.ipynb) | Un agente que lee los resultados de una liga de fútbol, calcula la tabla y los goleadores con sus propios programas, y te consulta el calendario con una herramienta que tú programas. | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/adolfobolivar/talleres-agentes-claude/blob/main/taller1/taller1_agente_deportivo.ipynb) | [▶️ Ver (3 min)](taller1/taller1_agente_deportivo.mp4) |
 
 ## Cómo ejecutar un taller
 
